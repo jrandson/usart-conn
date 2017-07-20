@@ -1,4 +1,4 @@
-This a simple script that can help you to send data thorugh the serial port.
+This a simple script that can help you to send data through the serial port.
 
 Basically, you can sed data in the format int, float or any derivation of them.
 
