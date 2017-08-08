@@ -1,7 +1,4 @@
-This a simple script that can help you to send data through the serial port.
+This a simple script that can help you to send data through the USART protocol.
 
-Basically, you can sed data in the format int, float or any derivation of them.
-
-check the if you desire use it to send other type of data such as uint8 or uint16 for example.
-
+Basically, you can send data in the Int and float format or any derivation of them.
 
